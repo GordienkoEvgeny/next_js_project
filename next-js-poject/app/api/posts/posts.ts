@@ -1,0 +1,1 @@
+export const posts = [{ id: 1, title: "Title post", body: "Body post" }, { id: 2, title: "Title 2", body: "Body 2" } ]
